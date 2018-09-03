@@ -1,5 +1,7 @@
 # Aurelia Template Lint Loader for Webpack 2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/niieani/aurelia-template-lint-webpack-loader.svg)](https://greenkeeper.io/)
+
 ## Usage
 
 Apply the aurelia-template-lint-webpack-loader in your webpack configuration, enforcing the rule as `'pre'`:
