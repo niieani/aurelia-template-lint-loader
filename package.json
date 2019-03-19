@@ -40,6 +40,6 @@
     "semantic-release": "^15.0.2"
   },
   "dependencies": {
-    "aurelia-template-lint": "^0.9.15 || ^1.0.0"
+    "aurelia-template-lint": "^0.10.0"
   }
 }
